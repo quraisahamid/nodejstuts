@@ -1,11 +1,15 @@
 # nodejstuts
 nodejs tutorial fundamentals
 
+download latest nodejs into your machine first.
+
 run this
 
+```sh
 npm init
 npm install
 npm run dev
+```
 
 you done
 
